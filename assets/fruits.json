@@ -1,0 +1,85 @@
+{
+  "category": "Fruits",
+  "items": [
+    {
+      "name": "Apple",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+    },
+    {
+      "name": "Banana",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+    },
+    {
+      "name": "Orange",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+    },
+    {
+      "name": "Strawberry",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
+    },
+    {
+      "name": "Grapes",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kyoho-grape.jpg"
+    },
+    {
+      "name": "Pineapple",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg"
+    },
+    {
+      "name": "Mango",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg"
+    },
+    {
+      "name": "Blueberry",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Blueberries_.jpg"
+    },
+    {
+      "name": "Watermelon",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Watermelon_cross_BNC.jpg"
+    },
+    {
+      "name": "Peach",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nectarine_and_cross_section02_edit.jpg"
+    },
+    {
+      "name": "Cherry",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg"
+    },
+    {
+      "name": "Pear",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Autumn_Red_pears.jpg"
+    },
+    {
+      "name": "Kiwi",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
+    },
+    {
+      "name": "Lemon",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lemon.jpg"
+    },
+    {
+      "name": "Papaya",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Papaya_cross_section_BNC.jpg"
+    },
+    {
+      "name": "Plum",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Plums.jpg"
+    },
+    {
+      "name": "Raspberry",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Raspberries05.jpg"
+    },
+    {
+      "name": "Coconut",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Coconut.jpg"
+    },
+    {
+      "name": "Pomegranate",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Pomegranate_fruit_-_whole_and_sectioned.jpg"
+    },
+    {
+      "name": "Apricot",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Apricot_and_cross_section.jpg"
+    }
+  ]
+}

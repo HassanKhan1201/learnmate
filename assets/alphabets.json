@@ -1,0 +1,161 @@
+{
+  "category": "Alphabets",
+  "items": [
+    {
+      "capital": "A",
+      "small": "a",
+      "word": "Apple",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+    },
+    {
+      "capital": "B",
+      "small": "b",
+      "word": "Banana",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+    },
+    {
+      "capital": "C",
+      "small": "c",
+      "word": "Cat",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
+    },
+    {
+      "capital": "D",
+      "small": "d",
+      "word": "Dog",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg"
+    },
+    {
+      "capital": "E",
+      "small": "e",
+      "word": "Elephant",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
+    },
+    {
+      "capital": "F",
+      "small": "f",
+      "word": "Fish",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Clown_fish_in_the_Andaman_Coral_Reef.jpg"
+    },
+    {
+      "capital": "G",
+      "small": "g",
+      "word": "Giraffe",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg"
+    },
+    {
+      "capital": "H",
+      "small": "h",
+      "word": "House",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/House_in_Marcinowice%2C_%C5%9Awidnica_County.jpg"
+    },
+    {
+      "capital": "I",
+      "small": "i",
+      "word": "Ice Cream",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ice_Cream_dessert_02.jpg"
+    },
+    {
+      "capital": "J",
+      "small": "j",
+      "word": "Juice",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Orange_juice_1.jpg"
+    },
+    {
+      "capital": "K",
+      "small": "k",
+      "word": "Kite",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kite_flying_in_the_sky.jpg"
+    },
+    {
+      "capital": "L",
+      "small": "l",
+      "word": "Lion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg"
+    },
+    {
+      "capital": "M",
+      "small": "m",
+      "word": "Monkey",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Monkey_in_Bali.jpg"
+    },
+    {
+      "capital": "N",
+      "small": "n",
+      "word": "Nest",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bird_nest.jpg"
+    },
+    {
+      "capital": "O",
+      "small": "o",
+      "word": "Orange",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+    },
+    {
+      "capital": "P",
+      "small": "p",
+      "word": "Penguin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Emperor_Penguin_with_chick.jpg"
+    },
+    {
+      "capital": "Q",
+      "small": "q",
+      "word": "Queen",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Queen_Elizabeth_II_in_March_2015.jpg"
+    },
+    {
+      "capital": "R",
+      "small": "r",
+      "word": "Rabbit",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Hare_lying_in_grass.jpg"
+    },
+    {
+      "capital": "S",
+      "small": "s",
+      "word": "Sun",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sun_and_clouds.jpg"
+    },
+    {
+      "capital": "T",
+      "small": "t",
+      "word": "Tiger",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg"
+    },
+    {
+      "capital": "U",
+      "small": "u",
+      "word": "Umbrella",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Umbrella_on_the_beach.jpg"
+    },
+    {
+      "capital": "V",
+      "small": "v",
+      "word": "Violin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Violin_VL100.jpg"
+    },
+    {
+      "capital": "W",
+      "small": "w",
+      "word": "Whale",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Humpback_whale_noaa.jpg"
+    },
+    {
+      "capital": "X",
+      "small": "x",
+      "word": "Xylophone",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Xylophone.jpg"
+    },
+    {
+      "capital": "Y",
+      "small": "y",
+      "word": "Yacht",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Yacht_in_Santorini.jpg"
+    },
+    {
+      "capital": "Z",
+      "small": "z",
+      "word": "Zebra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Plains_Zebra_Equus_quagga.jpg"
+    }
+  ]
+}

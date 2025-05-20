@@ -1,0 +1,85 @@
+{
+  "category": "Animals",
+  "items": [
+    {
+      "name": "Lion",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg"
+    },
+    {
+      "name": "Elephant",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
+    },
+    {
+      "name": "Tiger",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg"
+    },
+    {
+      "name": "Giraffe",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg"
+    },
+    {
+      "name": "Zebra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Plains_Zebra_Equus_quagga.jpg"
+    },
+    {
+      "name": "Panda",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"
+    },
+    {
+      "name": "Kangaroo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kangaroo_Australia_01.jpg"
+    },
+    {
+      "name": "Koala",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"
+    },
+    {
+      "name": "Penguin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emperor_Penguin_Manchot_empereur.jpg"
+    },
+    {
+      "name": "Dolphin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Common_dolphin_delphinus_delphis.jpg"
+    },
+    {
+      "name": "Whale",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Humpback_whale_noaa.jpg"
+    },
+    {
+      "name": "Bear",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Grizzlybear55.jpg"
+    },
+    {
+      "name": "Wolf",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Canis_lupus_laying.jpg"
+    },
+    {
+      "name": "Fox",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Red_fox_standing.jpg"
+    },
+    {
+      "name": "Rabbit",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Hare_lying_in_grass.jpg"
+    },
+    {
+      "name": "Deer",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/White-tailed_deer.jpg"
+    },
+    {
+      "name": "Monkey",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Monkey_in_Bali.jpg"
+    },
+    {
+      "name": "Horse",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Arabian_horse_bay.jpg"
+    },
+    {
+      "name": "Camel",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/DromedaryCamel.jpg"
+    },
+    {
+      "name": "Leopard",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Leopard_africa.jpg"
+    }
+  ]
+}
